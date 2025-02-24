@@ -7,8 +7,6 @@ SMS & WhatsApp messages to your customers while handling conversation windows wi
 It uses AWS End User Messaging as its communications platform and logs message history and handles 
 WhatsApp user consent automatically in Amazon DynamoDB.
 
-[TOC]
-
 # Requirements
 
 The code has been tested with Python 3.12 in macOS. You will also need:
